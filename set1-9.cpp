@@ -2,12 +2,12 @@
 
 int main() 
 {
-	int N[5],K=2,i,sum=0;
+	int N[5],K=2,i,Sum=0;
 	for(i=0;i<=2;i++)
 	{
-		sum=sum+i;
+		Sum=Sum+i;
 	}
-	printf("%d",sum);
+	printf("%d",Sum);
 	
 	return 0;
 }
